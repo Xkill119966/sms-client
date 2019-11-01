@@ -1,0 +1,97 @@
+.ant-table-thead > tr > th {
+    background-color: #333;
+    color:white;
+    font-weight: bold;
+    text-align:center;
+}
+.ant-table table {
+    width: 100%;
+    text-align: center;
+    border-radius: 4px 4px 0 0;
+    border-collapse: collapse;
+    
+  }
+  .ant-table-thead > tr > th:hover {
+    background-color: #333;
+    color:white;
+}
+  
+ .ant-table-tbody > tr > td {
+  padding:0.7em 0.5em;
+}
+.ant-table-body tr>td,
+.ant-table tr>td
+{
+    border-bottom:2px solid #ddd;
+    text-align:center;
+
+}
+
+.ant-table-thead > tr > th.ant-table-column-has-actions.ant-table-column-has-sorters:hover {
+    background: grey;
+  }
+ 
+  .ant-table-thead > tr > th .ant-table-column-sorter .ant-table-column-sorter-inner .ant-table-column-sorter-up.on,
+.ant-table-thead > tr > th .ant-table-column-sorter .ant-table-column-sorter-inner .ant-table-column-sorter-down.on {
+  color: yellow;
+  
+  
+}
+.ant-table-thead > tr > th.ant-table-column-has-actions.ant-table-column-has-sorters:active .ant-table-column-sorter-up.on,
+.ant-table-thead > tr > th.ant-table-column-has-actions.ant-table-column-has-sorters:active .ant-table-column-sorter-down.on{
+  color: rgba(0, 0, 0, 0.45);
+}
+.ant-table-thead > tr > th.ant-table-column-sort {
+    background: #333;
+  }
+  .ant-page-header-title-view-title {
+    
+    font-size: 1.4em;
+    font-weight: bold;
+  }
+
+  .caption{
+    color:#333;
+    font-size:1.3em;
+    display:inline;
+  }
+  .capwrap{
+    margin:1.5em 1em;
+  }
+  .wrap{
+    background: #fff;
+    padding-bottom:16px;
+
+  }
+  .twrap{
+    width:95%;
+    margin:0 2.5%;
+  }
+
+.ant-table-bordered .ant-table-tbody > tr > td {
+  border-right: 1px solid white;
+  padding:0.7em 0.5em;
+}
+.ant-table-bordered .ant-table-thead > tr>th{
+  border: 1px solid #333;
+  border-bottom:#333;
+  border-right:#333;
+  padding:0.7em 0.5em;
+}
+.ant-btn{
+  border-radius:12px;
+}
+.ant-table-bordered .ant-table-tbody:hover > tr {
+  border-right: 1px solid white;
+  padding:0.7em 0.5em;
+}
+.ant-input:hover {
+  border-color: #333;
+  
+}
+.ant-input:focus {
+  border-color: #333;
+}
+.ant-layout{
+    box-sizing: border-box;
+}

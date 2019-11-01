@@ -1,0 +1,127 @@
+
+{
+    "menu":[
+        {
+            "key":"1",
+            "name": "Dashboard",
+            
+            "path": "/",
+            "theme": "#343434",
+            "font_size": "15,#ffe40e"
+        },
+        {
+            "key":"2",
+            "name": "Configuration",
+            
+            "path": "/",
+            "theme": "#343434",
+            
+            "font_size": "15,#ffe40e",
+            
+            "children" : [
+                {
+                    "key":"1",
+                    "name": "Employee",
+                    
+                    "path": "/employees",
+                    "font_size": "13,#ffe40e"
+                },
+                {
+                    "key":"2",
+                    "name": "Positions",
+                    "path": "/positions",
+                    "font_size": "13,#ffe40e"
+                },
+               
+                {
+                    "key":"3",
+                    "name":"Models",
+                    
+                    "path":"/models"
+                },
+                {
+                    "key":"4",
+                    "name":"Departments",
+                    
+                    "path":"/departments"
+
+                }
+            ]
+        },    
+        {
+            "key":"3",
+            "name": "Machine",
+            "path": "/machines",
+            "theme": "#343434",
+            "font_size": "15,#ffe40e"
+        },
+        {
+            "key":"4",
+            "name": "Complain",
+            
+            "path": "/complains",
+            "theme": "#343434",
+            "font_size": "15,#ffe40e"
+        },
+        {
+            "key":"5",
+            "name": "Assign to Schedule",
+           
+            "path": "/assingschedule",
+            "color": "#343434",
+            "font_size": "15,#ffe40e"
+        },
+        
+        {
+            "key":"6",
+            "name": " Schedule",
+           
+            "path": "/schedules",
+            "theme": "#343434",
+            "font_size": "15,#ffe40e"
+        },
+
+        {
+            "key":"7",
+            "name": "User Mangement",
+            
+            "path": "/",
+            "theme": "#343434",
+            
+            "font_size": "15,#ffe40e",
+            
+            "children" : [
+                {
+                    "key":"1",
+                    "name": "Account Create",
+                    
+                    "path": "/accounts",
+                    "font_size": "13,#ffe40e"
+                },
+                {
+                    "key":"2",
+                    "name": "Module",
+                    "path": "/module",
+                    "font_size": "13,#ffe40e"
+                },
+               
+                {
+                    "key":"3",
+                    "name":"Role",
+                    
+                    "path":"/role"
+                }
+            ]
+        },
+        {
+            "key":"8",
+            "name": " Daily Report",
+           
+            "path": "/report",
+            "theme": "#343434",
+            "font_size": "15,#ffe40e"
+        }
+
+        
+    ]
+}

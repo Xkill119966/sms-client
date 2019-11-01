@@ -1,0 +1,8 @@
+.ant-avatar-lg {
+    display:block;
+    width: 200px;
+    height: 200px;
+    line-height: 40px;
+    border:1px dashed #333;
+    margin-left:32px;
+  }

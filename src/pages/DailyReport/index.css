@@ -1,0 +1,14 @@
+.ant-card-head {
+    border-bottom-left-radius: 50px 50px;
+    border-top-right-radius: 50px 50px;
+    background-color: #f6de49;
+
+  }
+
+  .ant-btn-primary {
+      background-color: #084B8A;
+      border-radius: 10px;
+      
+  }
+
+  

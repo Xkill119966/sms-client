@@ -1,0 +1,12 @@
+.ant-card-head {
+   border-bottom-left-radius: 50px 50px;
+   border-top-right-radius: 50px 50px;
+   background-color: #f8e56a;
+  }
+  .ant-card-head-title{
+    font-size: 20px;
+  }
+  .ant-card-bordered {
+    border: 1px solid #e6e6e6;
+    box-shadow: 1px 1px #e6e6e6;
+  }

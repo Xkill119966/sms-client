@@ -1,0 +1,31 @@
+.ant-table-thead > tr > th {
+    background-color: #333;
+    color:white;
+    font-weight: bold;
+    border-bottom: #333;
+    text-align:center;
+}
+.caption{
+    color:#333;
+    font-size:1.3em;
+    display:inline;
+  }
+  .capwrap{
+    margin:1.5em 1em;
+  }
+  .wrap{
+    
+    background: #fff;
+    padding-bottom:16px;
+
+  }
+  .twrap{
+    width:95%;
+    margin:0 2.5%;
+  }
+  .ant-table-title {
+    position: relative;
+    top: 1px;
+    padding: 16px 0;
+    border-radius: 4px 4px 0 0;
+  }

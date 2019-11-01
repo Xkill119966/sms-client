@@ -1,0 +1,39 @@
+
+{
+    "test":[
+        {
+            "key":"1",
+            "name": "Profile",
+            
+            "path": "/profile",
+            "theme": "#343434",
+            "font_size": "15,#ffe40e"
+        },
+        {
+            "key":"2",
+            "name": "Job",
+            
+            "path": "/jobs",
+            "theme": "#343434",
+            "font_size": "15,#ffe40e"
+        },
+
+        {
+            "key":"3",
+            "name": "Daily Report",
+            
+            "path": "/dailyreport",
+            "theme": "#343434",
+            "font_size": "15,#ffe40e"
+        },
+        {
+            "key":"4",
+            "name": "Terms and Condition",
+            
+            "path": "/",
+            "theme": "#343434",
+            "font_size": "15,#ffe40e"
+        }
+        
+    ]
+}
